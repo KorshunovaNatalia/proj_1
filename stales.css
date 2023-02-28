@@ -103,8 +103,22 @@
     text-align: center;
        
 }
-
-
-
-
-
+.text{
+    margin: 0 auto;
+    width: 500px;
+    height: 300px; 
+    border-style: double;
+    border-color: rgb(136, 47, 47);
+    
+}
+.te{
+    text-align: center;
+    
+}
+.yes{
+    margin: 0 auto;
+    text-decoration: underline;
+    text-decoration-color: rgb(136, 47, 47) ;
+    text-align: center;
+    color: rgb(136, 47, 47);
+}
